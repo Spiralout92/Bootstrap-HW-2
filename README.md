@@ -11,4 +11,4 @@ Link for deployed website:
 
 Link for deployed website image: 
 
-![Portfolio](portfolio pic.PNG)
+![Portfolio](portfolio.PNG)

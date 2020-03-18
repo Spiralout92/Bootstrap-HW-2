@@ -1,6 +1,8 @@
 body {
-    background-color: #478559;
-}
+  background-image: url("backgoundim.jpg");
+  background-size: cover;
+  color: black;
+  } 
 
 #contact-me {
     padding: 200px;
